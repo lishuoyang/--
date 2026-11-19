@@ -12,5 +12,5 @@
 ## 推送方式
 
 ```bash
-git clone ssh://git@github.com/lishuoyang/--.git
+git clone ssh://git@github.com/lishuoyang/dedede.git
 ```
